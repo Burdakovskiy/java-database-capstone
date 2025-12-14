@@ -1,3 +1,4 @@
+## Admin User Stories
 **Admin Login:**
 _As an admin, I want to log into the portal with my username and password, so that I can manage the platform securely._
 
@@ -63,6 +64,7 @@ _As an admin, I want to run a stored procedure to view appointments per month, s
 **Notes:**
 - [This story directly supports Module 3 (Stored Procedures)]
 
+## Patient User Stories
 **View Doctors Without Authentication:**
 _As a patient, I want to view a list of doctors without logging in, so that I can explore available options before registering._
 **Acceptance Criteria:**
@@ -118,6 +120,7 @@ _As a patient, I want to log in and book an hour-long appointment with a doctor,
 **Notes:**
 - [Appointment duration is fixed to one hour.]
 
+## Doctor User Stories
 **Doctor Login:**
 _As a doctor, I want to log into the portal, so that I can manage my appointments._
 **Acceptance Criteria:**
