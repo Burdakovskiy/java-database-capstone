@@ -14,3 +14,4 @@ Numbered Flow of Data and Control
 5. For relational data (patients, doctors, appointments, admins), a Spring Data JPA repository communicates with the MySQL database.
 6. For document-based data (prescriptions), a Spring Data MongoDB repository communicates with the MongoDB database.
 7. The retrieved or processed data is returned to the controller and sent back to the client as either dynamic HTML pages or JSON responses, depending on the request type.
+
